@@ -1,2 +1,2 @@
 # subSpaceBBS
-retro bs type software/using sockets
+retro bbs type software/using sockets
